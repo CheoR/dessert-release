@@ -1,4 +1,4 @@
-package com.example.dessertrelease
+package com.example.dessertrelease.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.PaddingValues
@@ -34,6 +34,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.dessertrelease.R
 import com.example.dessertrelease.data.local.LocalDessertReleaseData
 import com.example.dessertrelease.ui.theme.DessertReleaseTheme
 
